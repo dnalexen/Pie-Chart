@@ -45,8 +45,8 @@ The pie chart above has been produced with the following command run in the fold
 "pie" file is.
 
 ```
-./pie -b 255-255-255 -e 0-0-0 -f camembert -i 700-700 -l USA-UK-Canada-Other-Australia -p 60-25-5-5-5 
--s 242-220-179/242-136-235/242-48-65/122-191-133/191-4-107 -c 500
+./pie -b 255-255-255 -e 0-0-0 -f camembert -i 700-700 -l USA-UK-Canada-Other-Australia 
+-p 60-25-5-5-5 -s 242-220-179/242-136-235/242-48-65/122-191-133/191-4-107 -c 500
 ```
 # Documentation
 The code's documentation is accessible via the file "doxygen documentation html/index.html".
