@@ -24,8 +24,8 @@ The program is used via the command line interface.
 Options: 
 -b: background color in RGB of the image. For example, in order to have a black background, 
 type "-b 0-0-0".
--c: size in pixels of the chart. For example, to have an pie chart of 200 pixels across by 200 pixels 
-tall, type "-i 200."
+-c: size in pixels of the chart. For example, to have an pie chart of 200 pixels across by 
+200 pixels tall, type "-i 200."
 -e: color in RGB for the edges and the labels. For example, in order to have a white color, 
 type "-e 255-255-255".
 -f: output filename.
@@ -34,8 +34,8 @@ type "-e 255-255-255".
 500 pixels tall, type "-i 500-500."
 -l: labels for the chart. For a pie chart of three slices, the labels are given as follows 
 "-l africa-asia-europe".
--p: percentages of the slices. For a pie chart of three slices, the percentages are given as follows 
-"-p 20-30-50".
+-p: percentages of the slices. For a pie chart of three slices, the percentages are given as 
+follows "-p 20-30-50".
 -s: color in RGB of the slices. For a pie chart of three slices, the colors are given as follows 
 "-s 255-255-205/150-10-150/175-7-72."
 ```
