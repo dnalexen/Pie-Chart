@@ -276,7 +276,7 @@ int main(int argc, char *argv[]) {
       /* Allocate the color pie chart edges color. */
       edgesColor = gdImageColorAllocate(im, R_edges, G_edges, B_edges);
 
-      /* Initialize the start angle to 270 */
+      /* Initialize the start angle to 270 degrees*/
       startAngle = 270;
 
       for(int i=0; i<num_percentages; i++){
